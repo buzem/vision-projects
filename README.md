@@ -1,2 +1,2 @@
 # vision-projects
-Computer Vision assignments using OpenCv during my bachelor
+Computer Vision Homeworks using OpenCV in Python during my bachelor
