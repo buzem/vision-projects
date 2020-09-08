@@ -1,2 +1,2 @@
 # vision-projects
-Computer Vision assignment done during my bachelor
+Computer Vision assignments using OpenCv during my bachelor
